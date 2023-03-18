@@ -1,0 +1,7 @@
+{
+	"handler":"native",
+	"config": {
+		"host": "localhost",
+		"port": 11211
+	}
+}
