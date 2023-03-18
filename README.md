@@ -54,4 +54,4 @@ Software requirements
 Copyright
 ---------
 
-Symbiose is licensed under the MIT License (MIT). A copy of the license is available in `LICENSE`.
+Symbiose is licensed under GNU GENERAL PUBLIC LICENSE Version 3, (29 June 2007). A copy of the license is available in `LICENSE`.
