@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<class name="CmdController">
-	<method name="execute"></method>
-	<method name="getPromptData"></method>
-</class>

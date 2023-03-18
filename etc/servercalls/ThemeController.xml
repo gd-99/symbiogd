@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<class name="ThemeController">
-	<method name="loadCss"></method>
-	<method name="getAvailable"></method>
-</class>

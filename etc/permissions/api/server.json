@@ -1,9 +1,0 @@
-{
-	"executeGetHost":[],
-	"executeGetWebosVersion":[],
-	"executeGetSystemData":[
-		{
-			"permission":"file.system.read"
-		}
-	]
-}
