@@ -36,7 +36,7 @@ Key features
 Installing
 ----------
 
-Manual installation, see [https://github.com/gd-99/symbiogd/wiki/Installing](https://github.com/gd-99/symbiogd/wiki/Installing.)
+Manual installation, see [https://github.com/gd-99/symbiogd/wiki/Installing.](https://github.com/gd-99/symbiogd/wiki/Installing)
 
 Software requirements
 ---------------------
