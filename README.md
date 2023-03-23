@@ -1,7 +1,7 @@
 [Symbiose 1.0 beta 4 from SourceForge](https://sourceforge.net/projects/symbiose/)
 ==============================================
 
-Web desktop using Symbiose v1.0b4 fron SourceForge as the base
+Web desktop using Symbiose v1.0b4 from SourceForge as the base
 
 This version (beta) is unstable. 
 
